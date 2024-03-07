@@ -1,0 +1,33 @@
+.footerup{
+    height: 30vh;
+    background-color: rgb(12, 12, 83);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.categories ul, .trending ul, .about ul{
+    list-style: none;
+}
+ul li{
+    font-size: 15px;
+}
+.socialicon{
+display: flex;
+justify-content: space-around;
+
+}
+
+
+.footerdown{
+    height: 10vh;
+    background-color: #003877;
+}
+.footerdown p{
+    position: relative;
+    float: right;
+    color: white;
+    right: 20px;
+}

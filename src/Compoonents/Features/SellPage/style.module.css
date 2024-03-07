@@ -1,0 +1,54 @@
+
+.formBtn{
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+.uploadBtn, .submitBtn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+ 
+  .submitBtn{
+    background-color: rgb(24, 131, 24);
+    color: #fff;
+  }
+  
+  .uploadBtn:hover {
+    background-color: #0056b3;
+  }
+  .submitBtn:hover{
+    
+    background-color: rgb(0, 63, 0);
+  }
+
+  .inputContainer {
+    margin-bottom: 10px;
+
+  }
+  .container{
+    background-color: rgb(14, 26, 92);
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid blue;
+    margin: 50px auto;
+  }
+  input{
+    height: 30px;
+    width: 300px;
+  }
+  
+  img{
+    width: 200px;
+    height: 60px;
+  }

@@ -1,0 +1,54 @@
+.header{
+    height: 12vh;
+    background-color: rgb(14, 26, 92);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 16px;
+    color: rgb(14, 26, 92);
+}
+.logo{
+    color: rgb(14, 26, 92)
+}
+.searchInput {
+    width: 350px;
+    height: 6vh;
+    background-color:aqua ;
+    border: 1px solid rgb(14, 26, 92);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.searchInput input{
+    width: 300px;
+    background-color: transparent;
+    color: rgb(14, 26, 92);
+    font-size: 16px;
+    font-weight: 800;
+    outline: none;
+    border: none;
+}
+.navLinks{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.linkComponent{
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0px 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aqua;
+}
+.navLinks .linkComponent{
+    font-size: 18px;
+    background-color:aqua;
+    color: rgb(14, 26, 92);
+    padding: 8px 15px;
+    width: 100px;
+}
