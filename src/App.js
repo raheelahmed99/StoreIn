@@ -36,8 +36,7 @@ function App() {
     </Routes>
    
 <<<<<<< HEAD
-   
-    <Footer/>
+
 =======
     <ShowNavbarFooter>
     <Footer/>
