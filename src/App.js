@@ -7,9 +7,6 @@ import Footer from "./Compoonents/Common/Footer/Footer";
 import ProductCategoury from "./Compoonents/Features/ProductCategoury/ProductCategoury";
 import ShowNavbarFooter from "./Compoonents/ShowNavbar&Footer/ShowNavbarFooter";
 
-<<<<<<< HEAD
-
-
 function App() {
  
 >>>>>>> 3e925eb (first commit)
@@ -27,9 +24,7 @@ function App() {
       <Route path="Sell" element={ <Sell /> } />
     </Routes>
    
-<<<<<<< HEAD
 
-=======
     <ShowNavbarFooter>
     <Footer/>
     </ShowNavbarFooter>
