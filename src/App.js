@@ -9,7 +9,7 @@ import ShowNavbarFooter from "./Compoonents/ShowNavbar&Footer/ShowNavbarFooter";
 
 function App() {
  
->>>>>>> 3e925eb (first commit)
+
   return (
     <>
     <BrowserRouter>
@@ -28,7 +28,7 @@ function App() {
     <ShowNavbarFooter>
     <Footer/>
     </ShowNavbarFooter>
->>>>>>> 3e925eb (first commit)
+
     </BrowserRouter>
     </>
   );
