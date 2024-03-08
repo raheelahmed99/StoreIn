@@ -8,15 +8,7 @@ import ProductCategoury from "./Compoonents/Features/ProductCategoury/ProductCat
 import ShowNavbarFooter from "./Compoonents/ShowNavbar&Footer/ShowNavbarFooter";
 
 <<<<<<< HEAD
-// import Fetch from "./Compoonents/Features/Fetch/Fetch";
-// import { useGlobalContextHook } from "./Compoonents/Contaxt/Contaxt";
 
-function App() {
-  // const name = useGlobalContextHook();
- 
-
-
-=======
 
 function App() {
  
